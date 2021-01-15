@@ -8,7 +8,7 @@ Ontwerp en maak een multi device website voor op reis. Maak een prototype dat to
 ![screen 1 desktop pre-reis big_Tekengebied 1-01](https://user-images.githubusercontent.com/36195440/104626722-82888400-5696-11eb-84a8-5b948b259440.png)
 
 
-Met Foodtrip kan de gebruiker voorafgaand, tijdens én na de reis gebruik maken van data uit een aantal API's om hiermee leuke tentjes te vinden die je normaal gesproken niet of moeilijk vind tijdens een reis in het buitenland. in de [WIKI](https://github.com/ReiniervanLimpt/Project-Web-2020-2021/wiki) van deze repo is het design rationale te vinden en de stappen die ik per week heb ondernomen om op dit concept te komen.
+Met Foodtrip kan de gebruiker voorafgaand, tijdens én na de reis gebruik maken van data uit een aantal API's om hiermee leuke tentjes te vinden die je normaal gesproken niet of moeilijk vind tijdens een reis in het buitenland. in de [WIKI](https://github.com/ReiniervanLimpt/Project-Web-2020-2021/wiki/Design-Rationale) van deze repo is het design rationale te vinden en de stappen die ik per week heb ondernomen om op dit concept te komen.
 
 
 # gebruikte data
